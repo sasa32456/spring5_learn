@@ -7,7 +7,7 @@
     <display-name>Web Application</display-name>
     <servlet>
         <servlet-name>mvc</servlet-name>
-        <servlet-class>com.n33.mvcframework.v2.servlet.DispatcherServlet</servlet-class>
+        <servlet-class>com.n33.mvcframework.v3.servlet.DispatcherServlet</servlet-class>
         <init-param>
             <param-name>contextConfigLocation</param-name>
             <param-value>application.properties</param-value>
