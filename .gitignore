@@ -36,10 +36,10 @@ web-demo/gradle/wrapper/gradle-wrapper.properties
 web-demo/gradlew
 web-demo/gradlew.bat
 
-aop-demo/gradlew
-aop-demo/gradlew.bat
-
 /aop-demo/.gradle/
 /aop-demo/build/
-/aop-demo/.gradle/
 /aop-demo/gradle/wrapper/
+/aop-demo/gradle/
+/aop-demo/out/
+/aop-demo/gradlew
+/aop-demo/gradlew.bat
