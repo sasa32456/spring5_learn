@@ -43,3 +43,8 @@ web-demo/gradlew.bat
 /aop-demo/out/
 /aop-demo/gradlew
 /aop-demo/gradlew.bat
+/webmvc-demo/gradlew
+/webmvc-demo/gradlew.bat
+/webmvc-demo/.gradle/
+/webmvc-demo/gradle/
+/webmvc-demo/build/
